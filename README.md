@@ -4,5 +4,5 @@ RELP is a protocol designed to be used by partners in an relationship, and speci
 that shall be upheld by both partners.
 
 The original document was authored, maintained, and is still in active use by [@ph3rin](https://github.com/ph3rin)
-and @???(anonymous). It is recommended that you fork/modify this document to suit your own need
+and [@kcn](https://www.artstation.com/cyanideyang). It is recommended that you fork/modify this document to suit your own need
 since you may not agree with every term we included in this document.
